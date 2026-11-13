@@ -1,6 +1,6 @@
 # Jamie's Cafe Website
 
-Landing for Jamie's Cafe in Allen, Northern Samar. It presents the cafe's menu, contact information, and a browsable food-photo album.
+Landing page for Jamie's Cafe in Allen, Northern Samar. It presents the cafe's menu, contact information, and a browsable food-photo album.
 
 ## Features
 
